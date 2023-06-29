@@ -12,7 +12,7 @@
  " Linear Search with Transposition Running Time: 5300 nanoseconds"
   So by implementing a Transposition, the linear search running time reduced to 5300 nanoseconds making it more efficient.
   The logic behind the improvement by transposition search is that it reduces the average search time by moving
-  the search element one position closer to the array.
+  the search element one position closer to the beginning of the array.
  
  
  
